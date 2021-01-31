@@ -14,9 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_clover.mk
-
-COMMON_LUNCH_CHOICES := \
-    arrow_clover-user \
-    arrow_clover-userdebug \
-    arrow_clover-eng
+    $(LOCAL_DIR)/havoc_clover.mk
