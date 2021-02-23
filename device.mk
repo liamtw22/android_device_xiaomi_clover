@@ -66,6 +66,10 @@ PRODUCT_PACKAGES += \
     init.device.rc \
     fstab.qcom
 
+# Input
+PRODUCT_PACKAGES += \
+    LatinIME
+
 # RIL
 PRODUCT_PACKAGES += \
     CarrierConfig \
